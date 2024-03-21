@@ -1,0 +1,46 @@
+{
+  "name": "ametodit",
+  "version": "1.0.0",
+  "description": "Solidity Documentation Generator",
+  "main": "cli.js",
+  "bin": {
+    "solidoc": "cli.js"
+  },
+  "keywords": [
+    "solidity",
+    "natspec",
+    "nulla",
+    "impedit",
+    "documentation-generator",
+    "sint",
+    "incidunt",
+    "sunt",
+    "sit",
+    "fugiat",
+    "dolorum",
+    "tronix",
+    "eum",
+    "rerum",
+    "est",
+    "facere",
+    "et",
+    "tempora",
+    "ubiq",
+    "et"
+  ],
+  "author": "JohnnyTrantow",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarmineRuecker/ametodit.git"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "glob": "^7.1.3",
+    "linq": "^3.1.0",
+    "pino": "^5.8.0",
+    "pino-pretty": "^2.2.2",
+    "require-all": "^3.0.0"
+  },
+  "devDependencies": {}
+}
